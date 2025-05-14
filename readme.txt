@@ -6,9 +6,7 @@ Tested up to: 6.8
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-== Description ==
-A lightweight and styled WordPress plugin that adds a smooth "Scroll to Top" button on every page. Optimized for performance and user experience.
+Description: A lightweight and styled WordPress plugin that adds a smooth "Scroll to Top" button on every page. Optimized for performance and user experience.
 
 == Installation ==
 1. Upload the plugin folder to the `/wp-content/plugins/` directory.
