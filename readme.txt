@@ -1,6 +1,6 @@
 === Reliable Scroll to Top ===
 Contributors: webcristal10
-Tags: scroll to top, back to top, smooth scroll, UX
+Tags: scroll to top, back to top, smooth scroll, scroll button, user experience, accessibility, floating button, wordpress scroll
 Requires at least: 5.0
 Tested up to: 6.8
 Stable tag: 1.0
